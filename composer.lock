@@ -747,7 +747,8 @@
             "version": "v1.0",
             "source": {
                 "type": "git",
-                "url": "https://Collinobremski@bitbucket.org/fivefilters/php-readability.git"
+                "url": "https://Collinobremski@bitbucket.org/fivefilters/php-readability.git",
+                "reference": "4f56053bd1fd540969b6cfb7f799a31c7352faee"
             },
             "require": {
                 "php": ">=5.2"
